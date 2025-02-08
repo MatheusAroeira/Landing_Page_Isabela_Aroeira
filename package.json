@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "animate.css": "^4.1.1",
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
   },
   "name": "lp_isabela_aroeira",
   "version": "1.0.0",
